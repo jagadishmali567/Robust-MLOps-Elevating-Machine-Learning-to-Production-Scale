@@ -35,3 +35,19 @@ conda activate usvisa
 ```Bash
 pip install -r requirements.txt
 ```
+
+
+## Project WorkFlow:
+
+1. constants
+2. entity
+3. components
+4. pipeline
+
+
+
+## Export the environment variable:
+
+```Bash
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+```
