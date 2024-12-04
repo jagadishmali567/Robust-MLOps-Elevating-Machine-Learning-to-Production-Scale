@@ -29,6 +29,10 @@ conda create -n usvisa python=3.8 -y
 ```
 
 ```Bash
+source activate base
+```
+
+```Bash
 conda activate usvisa
 ```
 
@@ -43,6 +47,7 @@ pip install -r requirements.txt
 2. entity
 3. components
 4. pipeline
+5. Main file
 
 
 
