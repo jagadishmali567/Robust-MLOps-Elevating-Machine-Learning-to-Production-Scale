@@ -94,13 +94,13 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 #### Policy:
 ```Bash
-- 1. AmazonEC2ContainerRegistryFullAccess
+1. AmazonEC2ContainerRegistryFullAccess
 ```
 ```Bash
-- 2. AmazonEC2FullAccess
+2. AmazonEC2FullAccess
 ```
 ```Bash
-- 3. AmazonS3FullAccess
+3. AmazonS3FullAccess
 ```
 
 ### 3. Create ECR repo to store/save docker image
