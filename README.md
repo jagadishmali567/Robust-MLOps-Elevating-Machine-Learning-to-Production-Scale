@@ -7,6 +7,7 @@
 - MLOPs Tool: https://www.evidentlyai.com/
 - MongoDB: https://account.mongodb.com/account/login
 - Dataset link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+- Cloud Computing: https://aws.amazon.com/free
 
 
 ## Git commands
@@ -14,9 +15,11 @@
 
 ```Bash
 git add .
-
+```
+```Bash
 git commit -m "Updated"
-
+```
+```Bash
 git push origin main
 ```
 
@@ -148,3 +151,4 @@ setting>actions>runner>new self hosted runner> choose os> then run command one b
 - AWS_SECRET_ACCESS_KEY
 - AWS_DEFAULT_REGION
 - ECR_REPO
+- MONGODB_URL
