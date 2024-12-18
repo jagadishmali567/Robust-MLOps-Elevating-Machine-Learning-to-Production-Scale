@@ -5,14 +5,14 @@
 
 
 
-- Anaconda: https://www.anaconda.com/
-- Vs code: https://code.visualstudio.com/download
-- Git: https://git-scm.com/
-- Flowchart: https://whimsical.com/
-- MLOPs Tool: https://www.evidentlyai.com/
-- MongoDB: https://account.mongodb.com/account/login
-- Dataset link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
-- Cloud Computing: https://aws.amazon.com/free
+- [Anaconda](https://www.anaconda.com/)
+- [Vs Code](https://code.visualstudio.com/download)
+- [Git and Git Bash](https://git-scm.com/)
+- [Flowchart](https://whimsical.com/)
+- [MLOps Tool](https://www.evidentlyai.com/) - Evidently AI
+- [MongoDB](https://account.mongodb.com/account/login)
+- [Dataset link](https://www.kaggle.com/datasets/moro23/easyvisa-dataset)
+- [Cloud Computing](https://aws.amazon.com/free)
 
 
 ## Git commands
